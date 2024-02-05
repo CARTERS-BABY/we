@@ -1,0 +1,33 @@
+.head{
+    width: 100%;
+    text-align: left ;
+}
+.head h3 {
+
+    display: inline;
+}
+.head button {
+
+    float: right;
+     border: 1px solid black;
+}
+.imgmario{
+    width: 100%;
+}
+#start , #status{
+    font-size: 22px;
+}
+canvas{
+    border: 2px solid white;
+    
+}
+.rodape{
+position: fixed;
+bottom: 0;
+width: 100%;
+background-color: blue;
+color: black;
+height: 30px;
+text-align: center;
+
+}
